@@ -1,5 +1,4 @@
 ### **main.py**
-```python
 import os, random
 from fastapi import FastAPI, Query, HTTPException
 from pydantic import BaseModel
