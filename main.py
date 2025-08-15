@@ -1,6 +1,3 @@
-
----
-
 ### **main.py**
 ```python
 import os, random
